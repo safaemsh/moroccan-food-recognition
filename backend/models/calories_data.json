@@ -1,0 +1,52 @@
+{
+  "couscous": {
+    "calories_per_100g": 112,
+    "portion_moyenne_g": 300,
+    "description": "Plat traditionnel berbère"
+  },
+  "tajine": {
+    "calories_per_100g": 150,
+    "portion_moyenne_g": 350,
+    "description": "Ragoût cuit lentement"
+  },
+  "harira": {
+    "calories_per_100g": 85,
+    "portion_moyenne_g": 250,
+    "description": "Soupe traditionnelle"
+  },
+  "pastilla": {
+    "calories_per_100g": 280,
+    "portion_moyenne_g": 200,
+    "description": "Pâté feuilleté sucré-salé"
+  },
+  "briouates": {
+    "calories_per_100g": 320,
+    "portion_moyenne_g": 100,
+    "description": "Petits triangles frits"
+  },
+  "rfissa": {
+    "calories_per_100g": 180,
+    "portion_moyenne_g": 300,
+    "description": "Galettes déchiquetées"
+  },
+  "zaalouk": {
+    "calories_per_100g": 65,
+    "portion_moyenne_g": 150,
+    "description": "Salade d'aubergines"
+  },
+  "mechoui": {
+    "calories_per_100g": 250,
+    "portion_moyenne_g": 200,
+    "description": "Agneau rôti"
+  },
+  "kefta": {
+    "calories_per_100g": 220,
+    "portion_moyenne_g": 150,
+    "description": "Boulettes de viande"
+  },
+  "msemen": {
+    "calories_per_100g": 290,
+    "portion_moyenne_g": 80,
+    "description": "Crêpe feuilletée"
+  }
+}
